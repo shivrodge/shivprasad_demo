@@ -1,2 +1,3 @@
 # shivprasad_demo
-This is my first reposttory
+This is my first repository
+Author : Shivprasad Rodge
